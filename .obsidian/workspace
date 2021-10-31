@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "81bfa3da41c00ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cdc37bdcb61291",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/jasa.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "576aefa54c2dafb3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b3e3ad4e39526a0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "93d54b18231cbd0c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "267ed95716a1a1d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e8ce959cd2b9f805",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/jasa.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "65cdc37bdcb61291",
+  "lastOpenFiles": [
+    "content/jasa.md",
+    "content/list/medsos.md",
+    "content/list/google-drive.md",
+    "archetypes/default.md",
+    "content/list/bot-telegram.md",
+    "content/barang/google-drive.md",
+    "content/jasa/google-drive.md",
+    "content/me.md",
+    "content/kontak.md",
+    "content/jasa/_index.md"
+  ]
+}
