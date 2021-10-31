@@ -2,10 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/list/clone-google/</loc>
+    <lastmod>2021-10-26T09:28:01+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>/list/</loc>
+    <lastmod>2021-10-26T09:28:01+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2021-10-26T09:28:01+00:00</lastmod>
+  </url><url>
+    <loc>/list/promosi/</loc>
+    <lastmod>2021-10-26T09:25:51+00:00</lastmod>
+  </url><url>
+    <loc>/list/adsense/</loc>
+    <lastmod>2021-10-26T09:24:20+00:00</lastmod>
+  </url><url>
+    <loc>/list/medsos/</loc>
+    <lastmod>2021-10-26T09:23:07+00:00</lastmod>
+  </url><url>
+    <loc>/list/bot-telegram/</loc>
+    <lastmod>2021-10-26T09:20:19+00:00</lastmod>
+  </url><url>
+    <loc>/jasa/</loc>
+    <lastmod>2021-10-26T09:12:01+00:00</lastmod>
+  </url><url>
+    <loc>/list/google-drive/</loc>
+    <lastmod>2021-10-26T09:10:31+00:00</lastmod>
+  </url><url>
+    <loc>/kontak/</loc>
+    <lastmod>2021-10-26T09:08:18+00:00</lastmod>
+  </url><url>
+    <loc>/me/</loc>
+    <lastmod>2021-10-26T09:08:12+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

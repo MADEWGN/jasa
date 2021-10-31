@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Made WGN</title>
-    <link>/</link>
-    <description>Recent content on Made WGN</description>
+    <title>Lists on Made WGN</title>
+    <link>/list/</link>
+    <description>Recent content in Lists on Made WGN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Oct 2021 09:28:01 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 09:28:01 +0000</lastBuildDate><atom:link href="/list/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clone Google</title>
       <link>/list/clone-google/</link>
@@ -53,40 +53,12 @@
     </item>
     
     <item>
-      <title>Jasa</title>
-      <link>/jasa/</link>
-      <pubDate>Tue, 26 Oct 2021 09:12:01 +0000</pubDate>
-      
-      <guid>/jasa/</guid>
-      <description>Ini adalah list jasa yang saya tawarkan 😄👍
- Google drive unlimited Bot Telegram Akun medsos Akun AdSense Promosi Clone akun google  </description>
-    </item>
-    
-    <item>
       <title>Google Drive</title>
       <link>/list/google-drive/</link>
       <pubDate>Tue, 26 Oct 2021 09:10:31 +0000</pubDate>
       
       <guid>/list/google-drive/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Kontak</title>
-      <link>/kontak/</link>
-      <pubDate>Tue, 26 Oct 2021 09:08:18 +0000</pubDate>
-      
-      <guid>/kontak/</guid>
-      <description>Ini adalah halaman kontak</description>
-    </item>
-    
-    <item>
-      <title>Me</title>
-      <link>/me/</link>
-      <pubDate>Tue, 26 Oct 2021 09:08:12 +0000</pubDate>
-      
-      <guid>/me/</guid>
-      <description>Halo saya adalah made Wiguna salam kenal ya</description>
     </item>
     
   </channel>
